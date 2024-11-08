@@ -1,0 +1,53 @@
+This is BibTeX, Version 0.99d (TeX Live 2020/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: acl2023.aux
+The style file: acl_natbib.bst
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=200001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: custom.bib
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Warning--empty journal in radford2018improving
+You've used 82 entries,
+            3571 wiz_defined-function locations,
+            1091 strings with 30341 characters,
+and the built_in function-call counts, 84650 in all, are:
+= -- 5608
+> -- 7882
+< -- 25
++ -- 2579
+- -- 2481
+* -- 6815
+:= -- 13332
+add.period$ -- 319
+call.type$ -- 82
+change.case$ -- 1251
+chr.to.int$ -- 82
+cite$ -- 83
+duplicate$ -- 5259
+empty$ -- 4274
+format.name$ -- 2725
+if$ -- 17140
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 1277
+newline$ -- 402
+num.names$ -- 328
+pop$ -- 2787
+preamble$ -- 1
+purify$ -- 1144
+quote$ -- 0
+skip$ -- 2638
+stack$ -- 0
+substring$ -- 1418
+swap$ -- 2689
+text.length$ -- 10
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 735
+warning$ -- 1
+while$ -- 289
+width$ -- 0
+write$ -- 992
+(There was 1 warning)
